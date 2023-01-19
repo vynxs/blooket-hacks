@@ -10,7 +10,8 @@
                 };
 
                 let fossils = Number(parseFloat(prompt('How many fossils do you want?')));
-                reactHandler().stateNode.setState({ fossils: fossils });
+                reactHandler().stateNode.setState({ fossils: 1b
+                                                  fossils });
 
                 alert('Fossils added!');
             } catch (e) {
